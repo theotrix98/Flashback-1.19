@@ -1,4 +1,9 @@
-<h1 align="center">Flashback</h1>
+## NOTICE
+This repo is a fork of *another* fork of the Flashback mod. I'm not changing any actual code, I'm just forking this so I can poke around the files without accidentally doing like a pull request or smth and see how to use this since the previous fork doesn't explain how to use it and as far as i can tell there is no listing for the downported 1.19 version on CurseForge or Modrinth, so... if i do figure out how to get it working i'll add another note here in this README file. that's all from me now, everything past the line below is untouched and left as is from when i forked it
+
+---
+
+# Flashback
 
 Copyright 2024 Moulberry. Do not reupload or redistribute.
 
